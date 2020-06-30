@@ -10,7 +10,7 @@
 
 ---
 
-![Alt text](KS_Ip_Configuration.png?raw=true "Magento2 Next Prve button on product detail page")
+
 
 ---
 
