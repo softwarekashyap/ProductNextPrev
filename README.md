@@ -1,4 +1,4 @@
-# Magento 2 Next Prev button on the product detail page
+# Magento 2 Next Prev Button on the product detail page
 
 ## Installation without composer
 * Download zip file of this extension
